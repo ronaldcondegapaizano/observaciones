@@ -1,2 +1,2 @@
-# observaciones 2025
-Este repositorio son para las obersavaciones hechas en clases
+# observación #2 - Soporte y Seguridad de Apps Móviles
+Este repositorio es para la observación #2
